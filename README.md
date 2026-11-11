@@ -1,113 +1,108 @@
 # Blockchain Technology Landscape Research
 
-**Week 1 – Blockchain Analyst Research Assignment**
+A structured research project exploring blockchain technologies, industry developments, strategic trends, and future adoption opportunities.
 
-## Project Overview
+## 📌 Project Overview
 
-This repository contains a comprehensive research report exploring the current landscape of blockchain technologies and their applications across various industries.
+This repository contains research reports prepared as part of a Blockchain Analyst learning and research journey. The project focuses on understanding blockchain fundamentals, analysing major platforms, identifying emerging industry trends, and forecasting blockchain adoption over the next five years.
 
-The research examines major blockchain platforms, consensus mechanisms, smart contract technologies, industry implementations, technological advancements, adoption challenges, and future trends.
+The research combines technical documentation, industry reports, corporate announcements, market data, and regulatory sources to provide an evidence-based understanding of the blockchain ecosystem.
 
-The objective is to understand how blockchain technology is transforming industries and provide strategic insights into its practical applications.
+## 📚 Research Reports
 
-## Research Objectives
+### Week 1 — Blockchain Technology Landscape Research
 
-- Understand the fundamentals of blockchain technology.
-- Analyze different consensus mechanisms.
-- Study major blockchain platforms and their architectures.
-- Evaluate blockchain applications across multiple industries.
-- Compare public and permissioned blockchain models.
-- Conduct SWOT analysis of major blockchain platforms.
-- Identify adoption challenges and potential solutions.
-- Explore emerging innovations and future trends.
+**Focus:** Understanding blockchain technology, platforms, applications, and industry challenges.
 
-## Blockchain Platforms Analyzed
+Topics covered:
+- Blockchain fundamentals and architecture
+- Consensus mechanisms: Proof of Work, Proof of Stake, and permissioned consensus
+- Analysis of Bitcoin, Ethereum, Solana, Hyperledger Fabric, and Polygon
+- SWOT analysis of major blockchain platforms
+- Blockchain applications across finance, healthcare, logistics, gaming, and more
+- Layer 2 scaling, sharding, zero-knowledge proofs, and modular blockchains
+- Adoption challenges and future developments
 
-| Platform | Primary Focus |
-|---|---|
-| Bitcoin | Digital currency and settlement |
-| Ethereum | Smart contracts and decentralized applications |
-| Solana | High-performance blockchain |
-| Hyperledger Fabric | Enterprise and permissioned blockchain |
-| Polygon | Ethereum scaling solutions |
+**Report:** `Blockchain_Technology_Landscape_Research.pdf`
 
-## Key Research Areas
+### Week 2 — Blockchain Trend Analysis and Five-Year Adoption Forecast (2026–2031)
 
-### 1. Introduction to Blockchain
-- Blockchain architecture
-- Distributed ledger technology
-- Consensus mechanisms
-- Smart contracts
+**Focus:** Identifying major blockchain trends and evaluating future industry adoption.
 
-### 2. Platform Analysis
+Topics covered:
+- Real-world asset (RWA) tokenisation
+- Stablecoins as settlement infrastructure
+- Enterprise blockchain adoption
+- AI agents and agentic payments
+- CBDCs and cross-border interoperability
+- Global blockchain regulatory developments
+- Industry impact analysis across finance, logistics, healthcare, and governance
+- SWOT and PEST strategic analysis
+- Five-year blockchain adoption forecast (2026–2031)
+- Challenges and strategic recommendations
+
+**Report:** `Blockchain_Trend_Analysis_and_Adoption_Forecast_2026_2031.pdf`
+
+## 🎯 Project Objectives
+
+- Understand the blockchain technology ecosystem.
+- Analyse leading blockchain platforms and their use cases.
+- Identify emerging trends and market opportunities.
+- Evaluate blockchain adoption across industries.
+- Study regulatory developments and technological challenges.
+- Develop strategic insights into future blockchain adoption.
+
+## 📊 Research Approach
+
+- Technical and industry research
+- Market trend analysis
+- Comparative platform analysis
+- SWOT and PEST frameworks
+- Five-year adoption forecasting
+- Evidence-based research using referenced sources
+
+## 🛠️ Technologies and Concepts Studied
+
 - Bitcoin
 - Ethereum
 - Solana
 - Hyperledger Fabric
 - Polygon
+- Smart Contracts
+- Stablecoins
+- Real-World Asset Tokenisation
+- Central Bank Digital Currencies (CBDCs)
+- Layer 2 Scaling
+- Zero-Knowledge Proofs
+- Blockchain Interoperability
 
-### 3. Industry Applications
-- Finance and banking
-- Supply chain management
-- Healthcare
-- Digital identity
-- Gaming and digital ownership
-- Energy and public sector
+## 📁 Repository Structure
 
-### 4. SWOT Analysis
-Evaluation of the strengths, weaknesses, opportunities, and threats associated with the five blockchain platforms.
+```text
+blockchain-technology-landscape-research/
+│
+├── README.md
+│
+└── Reports/
+    ├── Week-1/
+    │   └── Blockchain_Technology_Landscape_Research.pdf
+    │
+    └── Week-2/
+        └── Blockchain_Trend_Analysis_and_Adoption_Forecast_2026_2031.pdf
+```
 
-### 5. Technological Advancements
-- Layer-2 scaling
-- Zero-knowledge proofs
-- Sharding and data availability
-- Modular blockchains
-- Real-world asset tokenization
+## 📖 References
 
-### 6. Adoption Challenges
-- Scalability
-- Interoperability
-- Regulatory compliance
-- Energy consumption
-- Security risks
-- User experience
-- Governance and liability
+Each research report contains its own references, including technical documentation, corporate publications, regulatory records, market research, and industry analysis.
 
+## 👨‍💻 Project Information
 
-## Research Sources
-
-The report references publicly available white papers, technical documentation, industry reports, and research publications, including:
-
-- Bitcoin White Paper – Satoshi Nakamoto
-- Ethereum Documentation and White Paper
-- Solana White Paper
-- Hyperledger Fabric Documentation
-- Polygon Documentation
-- NIST Blockchain Technology Overview
-- Bank for International Settlements Reports
-- W3C Decentralized Identifiers Specification
-
-## Key Takeaways
-
-Blockchain technology is evolving beyond cryptocurrency into a broader infrastructure for digital finance, enterprise systems, supply chain transparency, healthcare data management, and decentralized applications.
-
-The research highlights that selecting the right blockchain platform depends on security requirements, scalability, decentralization, privacy, regulatory compliance, and business objectives.
-
-## Project Information
-
-| Field | Details |
-|---|---|
-| Project | Blockchain Technology Landscape Research |
-| Assignment | Week 1 |
-| Domain | Blockchain Technology |
-| Role | Blockchain Analyst |
-| Report Format | PDF |
-| Date | November 2026 |
-
-## Author
-
-**Prepared by: Blockchain Analyst**
+- **Role:** Blockchain Analyst
+- **Project Type:** Strategic Research and Industry Analysis
+- **Duration:** Week 1 and Week 2
+- **Research Period:** 2026
+- **Report Format:** PDF
 
 ---
 
-*This repository is created for educational and research purposes. The report is based on publicly available technical documentation, white papers, and industry research.*
+*This repository will be updated as additional blockchain research, industry analysis, and adoption forecasts are completed.*
