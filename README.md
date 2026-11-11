@@ -73,11 +73,6 @@ Evaluation of the strengths, weaknesses, opportunities, and threats associated w
 - User experience
 - Governance and liability
 
-## Research Report
-
-The complete research report is available below.
-
-**[Download the Blockchain Technology Landscape Research Report](Research_Report/Blockchain_Technology_Landscape_Research.pdf)**
 
 ## Research Sources
 
